@@ -46,5 +46,3 @@ This project is an audio tone comparison and clone effect analysis tool. It extr
 
 ## License
     This project is licensed under the MIT license. See the LICENSE file for details.
-
-Translated with DeepL.com (free version)
