@@ -1,4 +1,4 @@
-[简体中文](README_zh.md)
+[简体中文](README_ZH.md)
 ## Audio Tone Comparison and Clone Effects Analysis Tool
 
 ## Project Information
